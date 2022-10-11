@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">6_zadaniye</string>
+    <string name="question_text">Какая из картин написана Алексеем Саврасовым?</string>
+    <string name="true_button">«Грачи прилетели»</string>
+    <string name="false_button">«Золотая осень»</string>
+    <string name="three_button">«Московский дворик»</string>
+    <string name="four_button">«Бурлаки на Волге»</string>
+</resources>
